@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/assets/img/history.jpg",   
+    "title": "Our History",
+    "desc": "Charot, a family-owned manufacturing and trading company founded in 2016, evolved from Addis Ababa’s wholesale trade into manufacturing and real estate, meeting construction demands with innovation and sustainability."
+  },
+  {
+    "img": "/assets/img/mission.jpg",   
+    "title": "Our Mission",
+    "desc": "As pioneers of eco-friendly door manufacturing in Ethiopia, we provide sustainable, innovative solutions that enhance both functionality and aesthetics while contributing to a greener planet."
+  },
+  {
+    "img": "/assets/img/vision.jpg",   
+    "title": "Our Vision",
+    "desc": "Our vision is to lead Africa in innovative, sustainable door solutions, driving a shift toward eco-friendly construction where every building reflects a commitment to sustainability, functionality, and aesthetics."
+  },
+  {
+    "img": "/assets/img/values.jpg",
+    "title": "Our Core Values",
+    "desc": "Sustainability – Committed to eco-friendly, responsible manufacturing. Customer-Centricity – Delivering quality, reliability, and exceptional service. Integrity – Upholding transparency, ethics, and trust in all we do."
+  }
+       
+]

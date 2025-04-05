@@ -1,0 +1,27 @@
+[
+  {
+    "img": "/assets/img/portfolio_img_5.jpg",   
+    "title": "Amesco Apartment Realstate",
+    "desc": ""
+  },
+  {
+    "img": "/assets/img/portfolio_img_7.jpg",   
+    "title": "Halbulalo Realstate",
+   "desc": ""
+  },
+  {
+    "img": "/assets/img/portfolio_img_8.jpg",   
+    "title": "personal houses ",
+    "desc": ""
+  },
+  {
+    "img": "/assets/img/portfolio_img_6.jpg",   
+    "title": "personal houses",
+    "desc": ""
+  },
+  {
+    "img": "/assets/img/portfolio_img_9.jpg",   
+    "title": "personal houses",
+    "desc": ""
+  }          
+]

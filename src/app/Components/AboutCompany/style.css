@@ -1,0 +1,30 @@
+.shadow-hover {
+  transition: all 0.3s ease;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.shadow-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+}
+
+.timeline-item {
+  padding-left: 3rem;
+}
+
+.timeline-line {
+  left: 1.1rem;
+  z-index: -1;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: 0.9rem;
+  top: 0.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: #fff;
+  border: 2px solid #198754;
+  border-radius: 50%;
+}

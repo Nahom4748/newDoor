@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/assets/img/bg-1.jpg",
+    "title": "Strong & Stylish Doors for Every Home",
+    "desc": "Beautiful, secure, and built to last. Crafted with care for your space.",
+    "btnName": "Learn More",
+    "btnUrl": "/about",
+    "number": "+251908686868"
+  },
+  {
+    "img": "/assets/img/bg-2.jpg",
+    "title": "Quality Doors, Made Fast & Right",
+    "desc": "Expert craftsmanship with quick delivery. Designed to fit your needs.",
+    "btnName": "Learn More",
+    "btnUrl": "/about",
+    "number": "+251908676767"
+  },
+  {
+    "img": "/assets/img/bg-3.jpg",
+    "title": "Durable Doors, Built for Life",
+    "desc": "Long-lasting doors with modern design. Strong, stylish, and reliable.",
+    "btnName": "Learn More",
+    "btnUrl": "/about",
+    "number": "+251908686868"
+  }
+]

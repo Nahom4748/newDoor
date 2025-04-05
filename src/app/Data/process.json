@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icon1.png",
+    "title": "Assess the Requirements",
+    "desc": "Evaluate the specific needs and preferences for your door design before initiating the manufacturing process."
+  },
+  {
+    "img": "/assets/img/icon2.png",
+    "title": "Craft the Design",
+    "desc": "Create customized door designs that align with the style, functionality, and quality you desire."
+  },
+  {
+    "img": "/assets/img/icon3.png",
+    "title": "Manufacture the Door",
+    "desc": "Utilize precise techniques and premium materials to build the door according to the approved design specifications."
+  },
+  {
+    "img": "/assets/img/icon4.png",
+    "title": "Finalize and Deliver",
+    "desc": "Ensure quality checks are performed before delivering the finished door, ensuring it meets your expectations and is ready for installation."
+  }
+]

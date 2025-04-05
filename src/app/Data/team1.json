@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/RealEstate.jpg",
+    "title": "Real Estate",
+    "desc": " Eco-friendly, stylish doors that boost value and sustainability."
+  },
+  {
+    "img": "/assets/img/hotel.jpg",
+    "title": "Hotels",
+    "desc": "Create a premium guest experience with modern, soundproof, and elegant eco doors."
+  },
+  {
+    "img": "/assets/img/Office.jpg",
+    "title": "Office Buildings",
+    "desc": " Modern, durable, and energy-efficient doors for professional spaces."
+  },
+  {
+    "img": "/assets/img/house.jpg",
+    "title": "Homeowners ",
+    "desc": "Secure, stylish, and eco-conscious doors for every home."
+  }
+]

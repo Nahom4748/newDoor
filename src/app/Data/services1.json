@@ -1,0 +1,38 @@
+[
+  {
+    "img": "/assets/img/0011.jpg",
+    "icon": "/assets/img/icons/service_icon_1.svg",
+    "title": "Sustainability Commitment",
+    "desc": "Eco-Friendly Practices: We are dedicated to sustainable manufacturing processes, using recycled, environmentally friendly materials."
+  },
+  {
+    "img": "/assets/img/0022.jpg",
+    "icon": "/assets/img/icons/service_icon_2.svg",
+    "title": " Customization Options",
+    "desc": "We offer custom and unique designs for a personal touch.Design Choices: Choose from a variety of colors, finishes, and sizes to match your unique style."
+  },
+  {
+    "img": "/assets/img/0033.jpg",
+    "icon": "/assets/img/icons/service_icon_1.svg",
+    "title": " Functionality Check",
+    "desc": "If your door shows signs of malfunction or difficulty in opening and closing, it's best to schedule a service to diagnose and address the issue promptly."
+  },
+  {
+    "img": "/assets/img/0044.jpg",
+    "icon": "/assets/img/icons/service_icon_6.svg",
+    "title": " Efficiency Assessment",
+    "desc": "If your door is difficult to open, shows signs of wear, or has trouble locking, it's time for a safety inspection to ensure optimal performance."
+  },
+  {
+    "img": "/assets/img/0055.jpg",
+    "icon": "/assets/img/icons/service_icon_1.svg",
+    "title": "Performance Enhancement",
+    "desc": "Proper insulation and ventilation are essential for maintaining the integrity of your entryways. We also provide Ice Guard services to prevent ice buildup and protect your systems from damage."
+  },
+  {
+    "img": "/assets/img/0066.jpg",
+    "icon": "/assets/img/icons/service_icon_2.svg",
+    "title": "Delivery Options & Installation Services",
+    "desc": "Enjoy reliable delivery services with professional installation Our skilled team ensures a smooth installation process with quality workmanship."
+  }
+]

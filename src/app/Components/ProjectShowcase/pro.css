@@ -1,0 +1,20 @@
+.hover-zoom {
+    transition: transform 0.3s ease;
+  }
+  
+  .hover-zoom:hover {
+    transform: scale(1.03);
+  }
+  
+  .shadow-5xl {
+    box-shadow: 0 25px 50px -12px rgba(0,0,0,0.3);
+  }
+  
+  .scrollbar-hidden {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }

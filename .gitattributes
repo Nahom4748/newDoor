@@ -1,0 +1,9 @@
+# Normalize text files to LF
+* text=auto
+# Keep JSON, JavaScript, and other important files with LF
+*.js text eol=lf
+*.json text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.pack filter=lfs diff=lfs merge=lfs -text

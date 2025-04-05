@@ -1,0 +1,38 @@
+{
+  "name": "cripar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-spring/web": "^9.7.5",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "framer-motion": "^12.6.0",
+    "html-react-parser": "^5.1.18",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.5",
+    "react-bootstrap-icons": "^1.11.5",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-reveal": "^1.2.2",
+    "react-slick": "^0.30.2",
+    "react-swipeable": "^7.0.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3"
+  }
+}
